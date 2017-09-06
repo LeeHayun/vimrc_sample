@@ -10,3 +10,5 @@
 HOME으로 복사
 
     mv vimrc_sample/vimrc ~/.vimrc
+
+Reference: http://storycompiler.tistory.com/55
